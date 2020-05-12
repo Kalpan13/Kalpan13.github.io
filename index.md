@@ -17,8 +17,10 @@ I am consistently following LeetCode April-May Challenge. The codes of problems 
 
 ### [Simple-Pay](https://github.com/Kalpan13/simple-pay)
 <br>
+
 [Detailed Article](/simple_pay_article)
-<br>A simple Web-App for Canteen related transactions management developed using Flask and MonogDB. 
+
+A simple Web-App for Canteen related transactions management developed using Flask and MonogDB. 
 
 ---
 
