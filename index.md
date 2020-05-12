@@ -17,8 +17,8 @@
 
 ---
 
-[Node.Js Task Manager](/under_development)
-<h5> Created as a part of Udemy Node.Js course </h5>
+[Node.Js based Task Manager](/under_development)
+<p> Created as a part of Udemy Node.Js course </p>
   
 ---
 
