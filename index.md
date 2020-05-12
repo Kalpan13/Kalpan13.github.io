@@ -9,7 +9,7 @@
 <img src="images/LeetCode Logo_2.png?raw=true"/>
 <br>
 
-I am consistently LeetCode April-May Challenge. The codes of problems of each day are uploded here in repo.
+I am consistently following LeetCode April-May Challenge. The codes of problems of each day are uploded here in repo.
 My LeetCode Profile : [kalpan_13](https://leetcode.com/kalpan_13/)
 <br>
 
