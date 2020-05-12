@@ -10,7 +10,7 @@
 <br>
 
 I am consistently following LeetCode April-May Challenge. The codes of problems of each day are uploded in my repo. A brief explanation with some comments is also mentioned in the code itself. <br>
-My LeetCode Profile : [kalpan_13](https://leetcode.com/kalpan_13/)
+#### My LeetCode Profile: [kalpan_13](https://leetcode.com/kalpan_13/)
 
 ---
 ### Projects
