@@ -4,11 +4,11 @@
 
 ### Coding Stuff 
 
-[LeetCode Solutions](/sample_page)
-<img src="images/LeetCode Logo.png?raw=true"/>
+[LeetCode Solutions](https://github.com/Kalpan13/LeetCode-Solutions)
+<img src="images/LeetCode Logo1.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Simple-Pay](https://github.com/Kalpan13/simple-pay)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
