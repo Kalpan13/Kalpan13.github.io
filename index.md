@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [LeetCode Solutions](/sample_page)
-<img src="images/LeetCode logo.png?raw=true"/>
+<img src="images/LeetCode Logo.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
