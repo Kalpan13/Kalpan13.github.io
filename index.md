@@ -18,7 +18,7 @@
 ---
 
 [Node.Js Task Manager](http://example.com/)
-<h5> Create as a part of Udemy Node.Js course </h5>
+<h5> Created as a part of Udemy Node.Js course </h5>
   
 ---
 
