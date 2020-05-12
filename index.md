@@ -6,7 +6,7 @@
 
 [LeetCode Solutions](https://github.com/Kalpan13/LeetCode-Solutions)
 <br>
-<img src="images/LeetCode Logo1.png?raw=true"/>
+<img src="images/LeetCode Logo_2.png?raw=true"/>
 <br>
 
 ---
@@ -25,7 +25,7 @@
 Other Projects
  - [1. Phone Price Extractor](https://github.com/Kalpan13/Phone-Price-Extractor)
  - [2. SmartBin](https://github.com/Kalpan13/SmartDustbin)
- - [3. Robotic Arm Control](/under_delopment)
+ - [3. Robotic Arm Control](/under_development)
 
 
 ---
