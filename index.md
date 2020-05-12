@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Coding Stuff 
 
 [LeetCode Solutions](/sample_page)
 <img src="images/LeetCode Logo.png?raw=true"/>
